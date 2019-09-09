@@ -1,4 +1,4 @@
-# Sales-Prediction-Analysis
+# Sales-Analysis-Prediction 
 Analyzing a shop's historical sales data to predict the total sales of products sold in every shop, using Machine Learning.
 
 To view the code, open the url: https://nbviewer.jupyter.org/ 
